@@ -16,3 +16,7 @@ ENV/
 # Environments & OS files
 .DS_Store
 Thumbs.db
+
+# Local only files
+DA_Presentation.pdf
+
