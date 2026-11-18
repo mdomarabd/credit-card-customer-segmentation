@@ -21,7 +21,6 @@ Understanding customer spending, payment behaviors, and credit utilization is es
 ├── Project.ipynb          # Interactive Jupyter Notebook with complete analysis & visualizations
 ├── project.py             # Python script version of the data pipeline
 ├── Technical_Report.pdf   # In-depth technical report with methodologies, evaluation & conclusions
-├── DA_Presentation.pdf    # Executive presentation slides summarizing insights & recommendations
 ├── .gitignore             # Standard Git ignore rules for Python & Jupyter
 └── README.md              # Project documentation
 ```
@@ -77,3 +76,4 @@ pip install numpy pandas matplotlib seaborn scikit-learn scipy plotly
 
 ## 👥 Author
 - **Omar Abdelaziz** ([@mdomarabd](https://github.com/mdomarabd))
+
